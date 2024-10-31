@@ -15,8 +15,10 @@ My research focuses on developing advanced statistical and machine learning meth
 * M.S. in Statistics, Georgia Tech, 2018-2020
 * B.S. in Mathematics, Shanghai University, China 2014-2018
 
-# Publications
-[1] 
+# Publications and Manuscripts
+## Peer-Reviewed Journal Articles
+[1] **Liu, X.**, Hu, Z., Deng, X., and Kuhlman, C. J. (2023). [Uncertainty visualization for characterizing
+heterogeneous human behaviors in discrete dynamical system models](https://www.researchgate.net/profile/Xueying-Liu-27/publication/372490389_Uncertainty_Visualization_for_Characterizing_Heterogeneous_Human_Behaviors_in_Discrete_Dynamical_System_Models/links/6606daf2f5a5de0a9fe8c9f5/Uncertainty-Visualization-for-Characterizing-Heterogeneous-Human-Behaviors-in-Discrete-Dynamical-System-Models.pdf), _Advances in Complex Systems_, 26(3), pp. 2340001-1
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
