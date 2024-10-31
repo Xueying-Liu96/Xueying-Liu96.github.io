@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-I am Xueying Liu, currently a fifth-year Ph.D. student in the Department of Statistics at Virginia Tech (VT), under the supervision of Professor [Xinwei Deng (https://xwdeng80.github.io/). I am also a memeber of VT Statistics and Artificial Intelligence Laboratory (VT-SAIL).
+I am Xueying Liu, currently a fifth-year Ph.D. student in the Department of Statistics at Virginia Tech (VT), under the supervision of Professor [Xinwei Deng](https://xwdeng80.github.io/). I am also a member of VT Statistics and Artificial Intelligence Laboratory ([VT-SAIL](https://www.sail.stat.vt.edu/)).
 
 My research focuses on addressing some of the frontier fundamental challenges in machine learning using novel mathematical and statistical insights. Specifically, my study covers the following topics:
 
