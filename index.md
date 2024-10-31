@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-![IMG_3133](https://github.com/user-attachments/assets/a903a686-64c3-4a47-b918-5e23cda5c6db)
+<img src="https://github.com/user-attachments/assets/a903a686-64c3-4a47-b918-5e23cda5c6db" alt="IMG_3133" width="400"/>
+
 I am Xueying Liu, currently a fifth-year Ph.D. student in the Department of Statistics at Virginia Tech (VT), under the supervision of Professor [Xinwei Deng](https://xwdeng80.github.io/). I am also a member of VT Statistics and Artificial Intelligence Laboratory ([VT-SAIL](https://www.sail.stat.vt.edu/)).
 
 My research focuses on developing advanced statistical and machine learning methods tailored to complex, real-world applications through collaborations with various disciplines. Specifically, my study covers the following topics:
