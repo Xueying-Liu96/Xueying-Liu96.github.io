@@ -10,9 +10,7 @@ layout: default
   </div>
 </div>
 
-<p>
-
-My research focuses on developing advanced statistical and machine learning methods tailored to complex, real-world applications through collaborations with various disciplines. Specifically, my study covers the following topics:
+<p>My research focuses on developing advanced statistical and machine learning methods tailored to complex, real-world applications through collaborations with various disciplines. Specifically, my study covers the following topics:
 
 * Multi-task learning for clinical trial data (Bristol Myers Squibb)
 * Statistics-guided continual learning for AI tasks (AI Center of Excellence, Deloitte)
