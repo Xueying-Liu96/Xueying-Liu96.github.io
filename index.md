@@ -46,22 +46,14 @@ heterogeneous human behaviors in discrete dynamical system models](https://www.r
 * Data Analyst Intern, Nielsen, Shanghai, China. 2017.12-2018.03
 
 # Talks
-* _"Data Composition: A New Experimental Design Problem with Application in Continual Learning"_, 
-Invited talk at International Conference on Advances in Interdisciplinary Statistics and Combinatorics (AISC), Greensboro, NC, Oct 2024.
-*	_"A multi-task learning approach for identifying prognostic variables across multiple historical clinical trials"_,
-Talk at 2024 Joint Statistical Meetings (JSM), Portland, OR, Aug 2024.
-*	_"A multi-task learning approach for identifying prognostic variables across multiple historical clinical trials"_,
-Poster presentation at ENAR 2024 Spring Meeting, Baltimore, MD, Mar 2024.
-*	_"A multi-task learning approach for identifying prognostic variables across multiple historical clinical trials"_,
-Poster presentation at Women in Data Science Conference, Blacksburg, VA, Feb 2024.
-*	_"A calibration model for bot-like behaviors in agent-based anagram game simulation"_,
-Talk at 2023 Winter Simulation Conference (WSC), San Antonio, TX, Dec 2023.
-*	_"Learning common knowledge networks via exponential random graph models"_,
-Talk at 2023 Advances in Social Networks Analysis and Mining (ASONAM), Kusadasi, Turkey, Nov 2023.
-*	_"Learning common knowledge networks via exponential random graph models"_,
-Poster presentation at 2023 ASA/IMS Spring Research Conference (SRC), Banff, Canada, May 2023.
-*	_"A Bayesian uncertainty quantification approach for agent-based modeling of networked anagram games"_,
-Talk at 2022 Winter Simulation Conference (WSC), Virtual, Dec 2022.
+* _"Data Composition: A New Experimental Design Problem with Application in Continual Learning"_, Invited talk at International Conference on Advances in Interdisciplinary Statistics and Combinatorics (AISC), Greensboro, NC, Oct 2024.
+*	_"A multi-task learning approach for identifying prognostic variables across multiple historical clinical trials"_, Talk at 2024 Joint Statistical Meetings (JSM), Portland, OR, Aug 2024.
+*	_"A multi-task learning approach for identifying prognostic variables across multiple historical clinical trials"_, Poster presentation at ENAR 2024 Spring Meeting, Baltimore, MD, Mar 2024.
+*	_"A multi-task learning approach for identifying prognostic variables across multiple historical clinical trials"_, Poster presentation at Women in Data Science Conference, Blacksburg, VA, Feb 2024.
+*	_"A calibration model for bot-like behaviors in agent-based anagram game simulation"_, Talk at 2023 Winter Simulation Conference (WSC), San Antonio, TX, Dec 2023.
+*	_"Learning common knowledge networks via exponential random graph models"_, Talk at 2023 Advances in Social Networks Analysis and Mining (ASONAM), Kusadasi, Turkey, Nov 2023.
+*	_"Learning common knowledge networks via exponential random graph models"_, Poster presentation at 2023 ASA/IMS Spring Research Conference (SRC), Banff, Canada, May 2023.
+*	_"A Bayesian uncertainty quantification approach for agent-based modeling of networked anagram games"_, Talk at 2022 Winter Simulation Conference (WSC), Virtual, Dec 2022.
 *	_"Bayesian approach to uncertainty visualization of heterogeneous behaviors in modeling networked anagram  
 games"_, Talk at 2022 Complex Networks and Application (CNA), Virtual, Nov 2022.
 
