@@ -3,13 +3,20 @@ layout: default
 ---
 I am Xueying Liu, currently a fifth-year Ph.D. student in the Department of Statistics at Virginia Tech (VT), under the supervision of Professor [Xinwei Deng](https://xwdeng80.github.io/). I am also a member of VT Statistics and Artificial Intelligence Laboratory ([VT-SAIL](https://www.sail.stat.vt.edu/)).
 
-My research focuses on developing advanced statistical and machine learning methods tailored to complex, real-world applications. Specifically, my study covers the following topics:
+My research focuses on developing advanced statistical and machine learning methods tailored to complex, real-world applications through collaborations with various disciplines. Specifically, my study covers the following topics:
 
-* Multi-task learning for clinical trial data (in collaboration with Bristol Myers Squibb)
-* Statistics-guided continual learning for AI tasks (in collaboration with AI Center of Excellence, Deloitte)
-* Statistical and network modeling with application to social and behavioral science (in collaboration with [Biocomplexity Institute at University of Virginia](https://biocomplexity.virginia.edu/))
+* Multi-task learning for clinical trial data (Bristol Myers Squibb)
+* Statistics-guided continual learning for AI tasks (AI Center of Excellence, Deloitte)
+* Statistical and network modeling with application to social and behavioral science ([Biocomplexity Institute at University of Virginia](https://biocomplexity.virginia.edu/))
 * Modeling complex data and uncertainty quantification
 
+# Education
+* Ph.D. in Statistics, Virginia Tech, 2020-Present
+* M.S. in Statistics, Georgia Tech, 2018-2020
+* B.S. in Mathematics, Shanghai University, China 2014-2018
+
+# Publications
+[1] 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
