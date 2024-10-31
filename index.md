@@ -5,10 +5,10 @@ I am Xueying Liu, currently a fifth-year Ph.D. student in the Department of Stat
 
 My research focuses on developing advanced statistical and machine learning methods tailored to complex, real-world applications. Specifically, my study covers the following topics:
 
-Multi-task learning for clinical trial data (in collaboration with Bristol Myers Squibb)
-Statistics-guided continual learning for AI tasks (in collaboration with AI Center of Excellence, Deloitte)
-Statistical and network modeling with application to social and behavioral science (in collaboration with [Biocomplexity Institute - The University of Virginia](https://biocomplexity.virginia.edu/))
-Modeling complex data and uncertainty quantification
+* Multi-task learning for clinical trial data (in collaboration with Bristol Myers Squibb)
+* Statistics-guided continual learning for AI tasks (in collaboration with AI Center of Excellence, Deloitte)
+* Statistical and network modeling with application to social and behavioral science (in collaboration with [Biocomplexity Institute at University of Virginia](https://biocomplexity.virginia.edu/))
+* Modeling complex data and uncertainty quantification
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
