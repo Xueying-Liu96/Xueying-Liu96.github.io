@@ -54,8 +54,7 @@ heterogeneous human behaviors in discrete dynamical system models](https://www.r
 *	_"Learning common knowledge networks via exponential random graph models"_, Talk at 2023 Advances in Social Networks Analysis and Mining (ASONAM), Kusadasi, Turkey, Nov 2023.
 *	_"Learning common knowledge networks via exponential random graph models"_, Poster presentation at 2023 ASA/IMS Spring Research Conference (SRC), Banff, Canada, May 2023.
 *	_"A Bayesian uncertainty quantification approach for agent-based modeling of networked anagram games"_, Talk at 2022 Winter Simulation Conference (WSC), Virtual, Dec 2022.
-*	_"Bayesian approach to uncertainty visualization of heterogeneous behaviors in modeling networked anagram  
-games"_, Talk at 2022 Complex Networks and Application (CNA), Virtual, Nov 2022.
+*	_"Bayesian approach to uncertainty visualization of heterogeneous behaviors in modeling networked anagram games"_, Talk at 2022 Complex Networks and Application (CNA), Virtual, Nov 2022.
 
 # Misc
 
