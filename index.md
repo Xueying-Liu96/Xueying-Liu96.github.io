@@ -17,10 +17,10 @@ My research focuses on developing advanced statistical and machine learning meth
 
 # Publications
 ## Peer-Reviewed Journal Articles
-[1] **Liu, X.**, Hu, Z., Deng, X., and Kuhlman, C. J. (2023). [Uncertainty visualization for characterizing
+[1]. **Liu, X.**, Hu, Z., Deng, X., and Kuhlman, C. J. (2023). [Uncertainty visualization for characterizing
 heterogeneous human behaviors in discrete dynamical system models](https://www.researchgate.net/profile/Xueying-Liu-27/publication/372490389_Uncertainty_Visualization_for_Characterizing_Heterogeneous_Human_Behaviors_in_Discrete_Dynamical_System_Models/links/6606daf2f5a5de0a9fe8c9f5/Uncertainty-Visualization-for-Characterizing-Heterogeneous-Human-Behaviors-in-Discrete-Dynamical-System-Models.pdf), _Advances in Complex Systems_, 26(3), pp. 2340001-1.
-[2] Hu, Z., **Liu, X.**, Deng, X., and Kuhlman, C. J. (2024). [An uncertainty quantification framework for agent-based modeling and simulation in networked anagram games](https://tandfonline.com/doi/abs/10.1080/17477778.2024.2313134), _Journal of Simulation_, 1-19.
-[3] Chu, S., **Liu, X.**, Marathe, A., and Deng, X. (2024). [A latent process approach to change-point detection of mixed-type observations](https://www.tandfonline.com/doi/full/10.1080/08982112.2023.2223617), _Quality Engineering_, 36(2), 407-426.
+[2]. Hu, Z., **Liu, X.**, Deng, X., and Kuhlman, C. J. (2024). [An uncertainty quantification framework for agent-based modeling and simulation in networked anagram games](https://tandfonline.com/doi/abs/10.1080/17477778.2024.2313134), _Journal of Simulation_, 1-19.
+[3]. Chu, S., **Liu, X.**, Marathe, A., and Deng, X. (2024). [A latent process approach to change-point detection of mixed-type observations](https://www.tandfonline.com/doi/full/10.1080/08982112.2023.2223617), _Quality Engineering_, 36(2), 407-426.
 
 ## Peer-Reviewed Conference Paper
 [4] **Liu, X.**, Hu, Z., Deng, X., and Kuhlman, C. J. (2022). [A Bayesian uncertainty quantification approach for agent-based modeling of networked anagram games](https://par.nsf.gov/servlets/purl/10385087), _Proceedings of the 2022 Winter Simulation Conference (WSC 2022)_, pp. 310-321. IEEE.
@@ -61,7 +61,6 @@ Talk at 2022 Winter Simulation Conference (WSC), Virtual, Dec 2022.
 *	_"Bayesian approach to uncertainty visualization of heterogeneous behaviors in modeling networked anagram  
 games"_, Talk at 2022 Complex Networks and Application (CNA), Virtual, Nov 2022.
 
-![image](https://github.com/user-attachments/assets/a4cd7cb7-eb44-4df4-b06d-0fce8d2b641e)
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
