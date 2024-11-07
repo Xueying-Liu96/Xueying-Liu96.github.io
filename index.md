@@ -59,7 +59,7 @@ heterogeneous human behaviors in discrete dynamical system models](https://www.r
 # Misc
 Outside of work, I enjoy dancing, including jazz, hip hop, kpop, and choreography, and I am a member of Chaoxic Dance Crew at Virginia Tech. I also adopted 2 cats who are 
 <div style="text-align: center;">
-  <img src="[https://github.com/user-attachments/assets/a903a686-64c3-4a47-b918-5e23cda5c6db](https://github.com/user-attachments/files/17668762/cats.pdf)" alt="IMG_3133" width="300"/>
+  <img src="https://github.com/user-attachments/files/17668762/cats.pdf" alt="IMG_3133" width="300"/>
 </div>
 
 
