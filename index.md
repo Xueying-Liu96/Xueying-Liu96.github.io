@@ -57,7 +57,7 @@ heterogeneous human behaviors in discrete dynamical system models](https://www.r
 *	_"Bayesian approach to uncertainty visualization of heterogeneous behaviors in modeling networked anagram games"_, Talk at 2022 Complex Networks and Application (CNA), Virtual, Nov 2022.
 
 # Misc
-Outside of work, I enjoy dancing, including jazz, hip hop, kpop, and choreography, and I am a member of Chaoxic Dance Crew at Virginia Tech. I also adopted 2 cats who are 
+Outside of work, I enjoy dancing, including jazz, hip hop, kpop, and choreography, and I am a member of Chaoxic Dance Crew at Virginia Tech. I also adopted two sibling cats (brother and sister) who have never been separated since birth.
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/0d79e94e-4fe3-4ee2-9043-2529975870e6" alt="IMG_3133" width="300"/>
 </div>
